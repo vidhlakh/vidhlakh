@@ -30,7 +30,7 @@ Golang, Python3, React JS, Javascript, Git, Docker, Kubernetes, Apache Kafka, MY
     • Create Repository Github/Bitbucket/Gitlab programmatically using their APIs.
     • Utilized Google app-scripts to create Jira issue from Google Form response.
     • Making use of Apache Kafka to produce and consume message.
-    • Design a Business landing page using frontend (React , Material UI), backend (Golang , AWS SES).
+    • Develop a Business landing page using frontend (React , Material UI), backend (Golang , AWS SES).
 
 ### Software Developer Intern, In2tive (Remote)                                                                                      Jun 2020 – Aug 2020
 
