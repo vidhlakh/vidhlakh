@@ -22,7 +22,7 @@ Golang, Python3, React JS, Javascript, Git, Docker, Kubernetes, Apache Kafka, MY
 
 ## PROFESSIONAL EXPERIENCE
 
-### Software Developer, In2tive (Remote)                                                                                              Sep 2020 – current
+### Software Developer, Ozone (Remote)                                                                                              Sep 2020 – current
 
     • Build application using Docker, deploy using Kubernetes deployment and services. Utilize Helm charts. Practice using Tekton Pipeline.
     • Create Registry AWS ECR, GCP GCR, Azure ACR using their respective API and libraries programatically.
@@ -32,7 +32,7 @@ Golang, Python3, React JS, Javascript, Git, Docker, Kubernetes, Apache Kafka, MY
     • Making use of Apache Kafka to produce and consume message.
     • Develop a Business landing page using frontend (React , Material UI), backend (Golang , AWS SES).
 
-### Software Developer Intern, In2tive (Remote)                                                                                      Jun 2020 – Aug 2020
+### Software Developer Intern, Ozone (Remote)                                                                                      Jun 2020 – Aug 2020
 
     • Worked with REST API backend using Golang Gin framework and frontend using React JS. 
     • Used GORM for MYSQL operations.
