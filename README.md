@@ -7,7 +7,7 @@ https://www.linkedin.com/in/vidhya-lakshmi-sankaranarayanan/
 
 ## OBJECTIVE
 
-Certified Kubernetes Application Developer having 3.3 years of experience. Currently working as Golang Developer with hand-on practice in Multi-cloud environment and Micro-service Architecture. Curious to tackle development challenges and work in an agile environment with resilient effort.
+Currently working as Golang Developer with hand-on practice in Multi-cloud environment and Micro-service Architecture. Curious to tackle development challenges and work in an agile environment with resilient effort.
 
 ## EDUCATION
 
